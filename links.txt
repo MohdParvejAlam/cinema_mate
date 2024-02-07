@@ -18,3 +18,6 @@ https://api.themoviedb.org/3/movie/upcoming?api_key=32ab194866fbaeeba79d2b804cb4
 
 Search:
 https://api.themoviedb.org/3/search/movie?api_key=32ab194866fbaeeba79d2b804cb4692b&query=avatar
+
+Account States:
+https://api.themoviedb.org/3/movie/{movie_id}/account_states?api_key=32ab194866fbaeeba79d2b804cb4692b
