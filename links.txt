@@ -21,3 +21,7 @@ https://api.themoviedb.org/3/search/movie?api_key=32ab194866fbaeeba79d2b804cb469
 
 Account States:
 https://api.themoviedb.org/3/movie/{movie_id}/account_states?api_key=32ab194866fbaeeba79d2b804cb4692b
+
+
+Creadits:
+https://api.themoviedb.org/3/movie/{movie_id}/credits?api_key=32ab194866fbaeeba79d2b804cb4692b
